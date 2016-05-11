@@ -1,7 +1,8 @@
 {
     "BOT": "Hi there!\nI’m the personal bot of Hector, a Civil/Structural Engineer from Los Angeles.",
-    "HELLO": "So you want to learn more about Hector?",
+    "HELLO": "My responses are limited at the moment, I am still under construction.",
     "I LOVE YOU": "Awh, shucks! I love you too!",
+    "WHAT CAN YOU SAY?": "Not Much.\nI Can respond to some common phrases like 'I Love You' for example.",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, HBot is back."
 }

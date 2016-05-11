@@ -1,7 +1,7 @@
 {
     "BOT": "Hi there!\nI’m the personal bot of Hector, a Civil/Structural Engineer from Los Angeles.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Hector? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Hector](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hey, I'm so glad you set HBot up! Do you want to tell Hector that you're talking to his bot about? %[Tell her](postback:twitter)",
-    "TELL HER": "Let's tweet @ Hector so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
+    "HELLO": "Hey, I'm so glad you set HBot up! Do you want to tell Hector that you're talking to his bot? %[Tell her](postback:twitter)",
+    "TELL HIM": "Let's tweet @ Hector so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, HBot is back."
